@@ -1,4 +1,3 @@
 # cfg_python
 
-Here is my homework! 
-Tada ;-)
+Notes and homework from Python course 🐍 :snake:	
