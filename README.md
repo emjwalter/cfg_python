@@ -4,6 +4,7 @@ Notes and homework from Python course :bowtie: :snake:
 
 
 Useful links:
+
 https://realpython.com/python-requests/
 
 postcodes.io
