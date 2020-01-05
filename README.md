@@ -7,11 +7,11 @@ Useful links:
 
 https://realpython.com/python-requests/
 
-algorithims: postcodes.io
+Algorithims: postcodes.io
 
 https://hp-api.herokuapp.com/
 
-https://docs.python.org/3/library/functions.html#open
+Language references: https://docs.python.org/3/library/functions.html
 
 DIY resources from CF:G
 https://www.codefirstgirls.org.uk/teach-yourself.html
