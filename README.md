@@ -12,3 +12,6 @@ postcodes.io
 https://hp-api.herokuapp.com/
 
 https://docs.python.org/3/library/functions.html#open
+
+DIY resources from CF:G
+https://www.codefirstgirls.org.uk/teach-yourself.html
