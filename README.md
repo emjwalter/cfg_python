@@ -17,3 +17,5 @@ DIY resources from CF:G
 https://www.codefirstgirls.org.uk/teach-yourself.html
 
 https://learnxinyminutes.com/docs/python3/
+
+Fun with emojis! https://gist.github.com/rxaviers/7360908
